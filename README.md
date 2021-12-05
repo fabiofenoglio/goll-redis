@@ -1,5 +1,8 @@
 # goll-redis
 
+[![Documentation](https://godoc.org/github.com/fabiofenoglio/goll-redis?status.svg)](http://godoc.org/github.com/fabiofenoglio/goll-redis)
+[![Go Report Card](https://goreportcard.com/badge/github.com/fabiofenoglio/goll-redis)](https://goreportcard.com/report/github.com/fabiofenoglio/goll-redis)
+
 goll-redis is a sample synchronization adapter for [Goll](https://github.com/fabiofenoglio/goll) using redis.
 
 It depends on [Redsync](https://github.com/go-redsync) as distributed lock implementation over Redis
